@@ -1,3 +1,10 @@
+Raças:
+	Humano
+	Sayajin
+	Humanoide
+	Androide
+	Raça inventada (Definido em conversa com mestre)
+
 Tranformações:
 	kaioken
 	Super Sayajin 1
@@ -5,8 +12,9 @@ Tranformações:
 	Super Sayajin 3
 	Super Sayajin God
 	Super Sayajin God Super Sayajin (BLUE)
+	Instinto Superior Incompleto
 	Tranformações inventadas (Definido em conversa com mestre)
-		
+
 Spells:
 	Kamehameha
 	Rajadas de ki
